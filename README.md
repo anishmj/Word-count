@@ -36,10 +36,10 @@ print('Word count:',count)
 
 # OUTPUT:
 
-TEXT FILE:
+## TEXT FILE:
 ![OUTPUT](TEXT.png)
 
-
+## OUTPUT
 
 ![output](output.png)
 
